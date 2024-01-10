@@ -1,12 +1,11 @@
-import Pruebita from "./components/Pruebita"
+import Pruebita from "./components/pruebita/index"
+
 
 function App() {
   return(
     <div style={{backgroundColor:"green"}}>
-      <h1>hola esto es esto </h1>
       <Pruebita 
       size= "40px"
-      
       />
     </div>
   )
