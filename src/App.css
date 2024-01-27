@@ -3,3 +3,11 @@
   padding: 0;
 } */
 
+.divGeneral {
+  width: 100%;
+  margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+

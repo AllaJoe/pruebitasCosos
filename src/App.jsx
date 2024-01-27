@@ -1,12 +1,11 @@
-import Pruebita from "./components/pruebita/index"
+import Card from "./components/card"
 
+import './App.css'
 
 function App() {
   return(
-    <div style={{backgroundColor:"green"}}>
-      <Pruebita 
-      size= "40px"
-      />
+    <div className="divGeneral">
+      <Card />
     </div>
   )
 }
