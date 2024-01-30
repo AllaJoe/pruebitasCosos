@@ -1,0 +1,23 @@
+
+.appContent_Container {
+    width: 80%;
+    height: 110vh;
+    /* margin-top: 10vh; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+    align-items: center;
+    /* gap: 20px; */
+    /* background-color: green; */
+}
+
+.cardsContainer {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
